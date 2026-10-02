@@ -1,4 +1,4 @@
-# Kargo hiring dashboard (MESA Case 2)
+# Kargo hiring dashboard (MESA Case 2) 
 
 Founder uploads CVs and picks the role. The app separates personal details on the server, scores every candidate against both the PM and SPM rubrics with Gemini Flash, ranks them, writes a 3-sentence interview brief for the top 5 per role, drafts an invite or warm rejection for everyone, and sends nothing until the founder clicks **Confirm and send** (via Resend).
 
