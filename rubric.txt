@@ -1,0 +1,50 @@
+KARGO HIRING RUBRIC: PM and SPM
+Built from the 8 past hire profiles, not the job descriptions.
+
+PATTERNS FOUND (Exceeds: Rohan, Sunita, Aditya, Meghna, Lavanya. Meets/Below: Vikram, Rahul, Preetham)
+1. Every Exceeds hire did hands-on freight or logistics operations work before their role. None of the three lower-rated hires did.
+2. The Exceeds hires repeatedly fixed problems nobody assigned them, and the fixes spread to other people. They also write down what failed and change practice afterwards. Vikram's and Rahul's CVs are wins only.
+3. The Exceeds hires owned their area with no layer above them. Vikram supported senior PMs; Preetham was one of 12 engineers. Rahul also had no layer above, so ownership alone is not enough; it predicts success only alongside patterns 1 and 2.
+Note: the hire files are CVs only, so every criterion is grounded in what the CVs say.
+
+=== PRODUCT MANAGER (weights total 100%) ===
+Criterion name: Ground-level operations exposure
+What a strong candidate looks like: Strong: has personally done operational work in freight, logistics, supply chain or a comparable field operation (handled shipments, documents, carriers, dispatch, warehouses, field teams), or spent real time physically inside a customer's operation, not only interviewing users remotely. The CV names concrete operational tasks and volumes. Weak: product, marketing or engineering experience built entirely from a desk, where users appear only as interviews, tickets or dashboards.
+Weight: 30%
+Source in hire profiles: Lavanya Iyer (3 years of carrier ops at Mahindra Logistics), Rohan Desai (CHA ops at JNPT), Sunita Krishnamurthy and Meghna Tiwari (freight documentation), Aditya Shetty (port services at JNPT). Absent in Vikram Nair, Preetham Rao and Rahul Bose.
+
+Criterion name: Unasked-for fixes that others adopted
+What a strong candidate looks like: Strong: at least one example where the person noticed a broken or missing process nobody assigned them, built a scrappy fix (a spreadsheet, prototype, checklist, triage process) on their own initiative, and other people then adopted it, with the adoption stated ("used by 12 people within two weeks", "became the team standard"). Weak: only assigned projects, or outputs like features shipped and revenue with no sign the person saw the problem first and the fix spread without a mandate.
+Weight: 30%
+Source in hire profiles: Rohan Desai (Excel tracker adopted by a 12-person team in 2 weeks; weekend BoL prototype used by 30 colleagues), Sunita Krishnamurthy (redesigned intake over a weekend, kept permanently), Lavanya Iyer (dashboard adopted by 2 other teams; same-day triage process), Meghna Tiwari (onboarding checklist became the team standard).
+
+Criterion name: Kills and post-mortems on the record
+What a strong candidate looks like: Strong: the CV openly describes something that failed or was stopped (a feature killed, a deal lost, an outage, a bug) and what the person did about it: wrote the post-mortem, shared the root cause, changed a practice. Weak: a CV made only of wins and percentage improvements, with no failure, kill or lesson anywhere.
+Weight: 20%
+Source in hire profiles: Lavanya Iyer (killed 2 features on usage data; wrote the outage post-mortem), Aditya Shetty (post-mortem on a lost freight forwarder deal became standard practice), Meghna Tiwari (owned an undocumented product limitation through a 6-week fix). Vikram Nair's and Rahul Bose's CVs contain only wins.
+
+Criterion name: Owned it without a layer above
+What a strong candidate looks like: Strong: was the sole or final owner of a product area, account book or process, making calls without a senior PM or manager making them, stated plainly ("sole PM", "no product layer", "no escalation to management"). Weak: supported senior PMs, was one member of a large team, or the CV describes contribution rather than ownership.
+Weight: 20%
+Source in hire profiles: Lavanya Iyer (sole PM for 3 product areas), Rohan Desai (translated field needs into specs with no product layer), Aditya Shetty (ran the full sales cycle alone), Meghna Tiwari (no escalation in 14 months), Sunita Krishnamurthy (independent consultant). Weak in Vikram Nair (supported senior PMs) and Preetham Rao (one of 12 engineers).
+
+=== SENIOR PRODUCT MANAGER (weights total 100%) ===
+Criterion name: Ground-level operations exposure
+What a strong candidate looks like: Strong: has done hands-on operational work in freight, logistics, supply chain or another field operation and has carried that understanding into later product or technical decisions, with a named example where operational knowledge changed what got built. Weak: no operational work at all, or operations mentioned only as a customer segment they sold to or interviewed.
+Weight: 25%
+Source in hire profiles: Rohan Desai (freight ops before engineering; works with forwarder ops teams during rollouts), Lavanya Iyer (carrier ops; discovery session uncovered a slot-booking workflow mismatch and led to a pivot). Absent in Vikram Nair, Preetham Rao and Rahul Bose.
+
+Criterion name: Unasked-for fixes that others adopted
+What a strong candidate looks like: Strong: more than one self-initiated fix or practice that spread beyond the person's own team or was made permanent, such as a process other teams copied or a prototype that became a core feature. Weak: improvements only inside their own remit or on assignment, or a single small example.
+Weight: 20%
+Source in hire profiles: Rohan Desai (weekend BoL prototype became a core platform feature), Lavanya Iyer (dashboard adopted by 2 other regional teams), Sunita Krishnamurthy (SOPs adopted in full by a client firm within 60 days).
+
+Criterion name: Kills and post-mortems on the record
+What a strong candidate looks like: Strong: describes at least one failure or stopped effort with real stakes (a lost deal, an outage, a failed migration, a killed product line) and shows the lesson changed how a wider group works afterwards: a new standard, a review process, a rule others now follow. Weak: no failures mentioned, or failures mentioned with no change that followed.
+Weight: 20%
+Source in hire profiles: Aditya Shetty (lost-deal post-mortem became standard qualification practice), Lavanya Iyer (outage post-mortem with follow-ups owned to closure; killed 2 features).
+
+Criterion name: Owned it without a layer above
+What a strong candidate looks like: Strong: for a sustained period (a year or more) was the most senior person making calls on a product area, platform, client book or business, with no senior PM or manager above deciding for them, AND made decisions with consequences beyond the next sprint (migrations, vendor changes, what to stop building) that held. Weak: senior title but decisions made by a head of product or above, or ownership only of features inside someone else's roadmap.
+Weight: 35%
+Source in hire profiles: Rohan Desai (most senior engineer in the room; led a legacy vendor migration under pressure with no data loss), Sunita Krishnamurthy (independent consultant owning client migrations end to end), Lavanya Iyer (sole PM; engineering lead said she makes calls the team trusts immediately). Note: Rahul Bose also had no layer above but was rated Meets, so this criterion only scores high when the decisions themselves are concrete and held.
